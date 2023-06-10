@@ -45,6 +45,3 @@ After our Fact and Dimension tables are created, we move to the Analysis Service
 Our dimensional model of star schema is generated over here. 
 
 Once cube is generated, we visualize our data to express 3 non trivial BI queries in Tableau.
-
-## **Video Link**
-[See the demonstration](https://youtu.be/SISfGy7QiFc)
